@@ -1,0 +1,34 @@
+body{
+    
+    background-color: seashell  ;
+    
+}
+h1 {
+    text-align: right;
+  padding-right: 16px;
+  border-right: 10px solid #00c8d7;
+  }
+  h3{
+    border-style: outset;
+    margin-block: inherit;
+    padding-right: 3rem;
+    background-color: aquamarine;
+  }
+  iframe {
+    display: block;
+    border-style: ridge;
+    align-content: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+  }
+
+  p{    
+
+    text-transform: capitalize;
+    text-align: center;
+    min-height: 20px;
+    border: 1px brown dotted;
+    margin: 3px solid inherit;
+  }
+  
